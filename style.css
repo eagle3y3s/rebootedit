@@ -12,3 +12,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+body {
+  background-color: #1a1a1a;
+  color: #e6e6e6;
+}
