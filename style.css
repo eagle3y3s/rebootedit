@@ -17,3 +17,12 @@ body {
   background-color: #1a1a1a;
   color: #e6e6e6;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  counter-reset: section;
+}
+
+/* Remove numbering from subheadings */
+h2:before, h3:before, h4:before, h5:before, h6:before {
+  content: none;
+}
