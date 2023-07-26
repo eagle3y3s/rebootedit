@@ -168,3 +168,6 @@ foreword-24
 qa
 main-topic-4
 ten-songs-to-the-marrow-of-rebooting
+rebooting-is-a-war-of-ideas
+preface
+q-a-1
